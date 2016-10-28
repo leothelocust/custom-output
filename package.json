@@ -1,0 +1,8 @@
+{
+  "name": "custom-output",
+  "description": "Format API output to follow jsonapi.org spec, albeit loosely.",
+  "version": "0.2.3",
+  "private": true,
+  "main": "./index.js",
+  "typings": "./lib/custom_output.d.ts"
+}
